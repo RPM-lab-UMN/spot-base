@@ -1,0 +1,7 @@
+FROM ryroche/robobase
+
+# Install Spot SDK using pip
+
+# Download Spot Driver code
+
+# Prepare ROS workspace for user project
