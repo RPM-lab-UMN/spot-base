@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository/image is still under development and does not yet work.
+
 # spot-base
 
 Base container environment for spot robot development. Provides a ROS noetic environment with the Spot SDK and ROS driver included.
